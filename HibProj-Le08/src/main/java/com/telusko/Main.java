@@ -18,7 +18,7 @@ public class Main {
 
         SessionFactory sf = new Configuration()
                 .configure()
-                .addAnnotatedClass(Student.class)
+                .addAnnotatedClass(com.telusko.Student.class)
                 .buildSessionFactory();
 
         Session session = sf.openSession();
