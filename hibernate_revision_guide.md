@@ -134,5 +134,4 @@
 > 4. Intentionally trigger and fix the N+1 problem.
 > 5. Map and persist complex object graphs with cascading and orphan removal.
 
-Good luck with your interview prep! Let me know if you'd like flashcards or a cheat sheet next.
 
